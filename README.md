@@ -8,4 +8,4 @@
 
 ![나는강도에요](https://user-images.githubusercontent.com/90025061/191662304-73b88d02-1b22-4091-b975-dccc24915a75.png)
 
-### I'm a rob give me code
+### I'm a rob give me some codes
